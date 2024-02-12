@@ -4,6 +4,7 @@ public class HowdyWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Howdy from programmer A");
+		System.out.println("Howdy from programmer B!");
 
 	}
 
